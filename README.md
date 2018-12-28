@@ -1,4 +1,4 @@
-# Trial-and-Error
+# Practice-Makes-Perfect
 Collection of little tasks
 
 #### GetNetDetail.py
